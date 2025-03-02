@@ -20,16 +20,18 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
+[/Users/harihoudini/Documents/Github/React.DotNet.EsBuild/Views/Main/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWFpbi9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/harihoudini/Documents/Github/React.DotNet.EsBuild/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/harihoudini/Documents/Github/React.DotNet.EsBuild/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/harihoudini/Documents/Github/React.DotNet.EsBuild/Pages/Main/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTWFpbi9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/harihoudini/Documents/Github/React.DotNet.EsBuild/Pages/Privacy.cshtml]

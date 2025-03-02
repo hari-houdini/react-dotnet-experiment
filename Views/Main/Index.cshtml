@@ -1,0 +1,22 @@
+@using React.DotNet.EsBuild.Helpers
+@model React.DotNet.EsBuild.Controllers.Main.MainModel
+
+@{
+    ViewBag.Title = "Home Page";
+    Layout = "_Layout";
+}
+
+<h2>Home Page</h2>
+<div>The section below renders a Render component - based on the values from the server</div>
+
+@section Scripts
+{
+    <script src="@Url.Content("/js/dist/bg-asteroid.min.js")" type="text/javascript" defer></script>
+    @{
+        ReactArgRecord record = new ReactArgRecord();
+        record.AddData("version", @Model.Version);
+        record.AddData<Guid>("build_number", @Model.BuildNumber);
+        record.AddData("build_date", @Model.BuildDate);
+        @ReactBundler.RenderScript("test-loc", record.ReactArgJson);
+    }
+}

@@ -95,3 +95,7 @@
 /Users/harihoudini/Documents/Github/React.DotNet.EsBuild/obj/Debug/net9.0/React.DotNet.EsBuild.pdb
 /Users/harihoudini/Documents/Github/React.DotNet.EsBuild/obj/Debug/net9.0/React.DotNet.EsBuild.genruntimeconfig.cache
 /Users/harihoudini/Documents/Github/React.DotNet.EsBuild/obj/Debug/net9.0/ref/React.DotNet.EsBuild.dll
+/Users/harihoudini/Documents/Github/React.DotNet.EsBuild/bin/Debug/net9.0/esbuild.config.json
+/Users/harihoudini/Documents/Github/React.DotNet.EsBuild/bin/Debug/net9.0/package.json
+/Users/harihoudini/Documents/Github/React.DotNet.EsBuild/bin/Debug/net9.0/tsconfig.json
+/Users/harihoudini/Documents/Github/React.DotNet.EsBuild/obj/Debug/net9.0/React.DotNet.EsBuild.sourcelink.json

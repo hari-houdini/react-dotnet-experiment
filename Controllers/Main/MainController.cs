@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace React.DotNet.EsBuild.Controllers.Main;
 
-[RoutePrefix("main")]
+[RoutePrefix("home")]
 public class MainController : Controller
 {
     public IActionResult Index()

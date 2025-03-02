@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("React.DotNet.EsBuild")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06d7f93ec9176a77dc276a4f192a0542d688aa97")]
 [assembly: System.Reflection.AssemblyProductAttribute("React.DotNet.EsBuild")]
 [assembly: System.Reflection.AssemblyTitleAttribute("React.DotNet.EsBuild")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
