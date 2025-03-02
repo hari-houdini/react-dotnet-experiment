@@ -1,0 +1,6 @@
+[{
+  "out": "ReactComponents/dist/bg-asteroid.min.js",
+  "entry": [
+    "ReactComponents/BgAsteroids/BgAsteroids.component.tsx"
+  ]
+}]
