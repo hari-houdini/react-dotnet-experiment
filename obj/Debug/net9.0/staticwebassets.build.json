@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "meNCA5ObsvP/OZz8P0DQRgBtHYm5c/VlQ1EnGCmpkUw=",
+  "Hash": "zeYjUoyo6/N9yaXxoFVys2AeT2FLT4l1KYHzs6UdRZw=",
   "Source": "React.DotNet.EsBuild",
   "BasePath": "_content/React.DotNet.EsBuild",
   "Mode": "Default",
@@ -351,6 +351,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/harihoudini/Documents/Github/React.DotNet.EsBuild/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Identity": "/Users/harihoudini/Documents/Github/React.DotNet.EsBuild/obj/Debug/net9.0/compressed/66106dag4u-hb0d3vhgn0.gz",
+      "SourceId": "React.DotNet.EsBuild",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/harihoudini/Documents/Github/React.DotNet.EsBuild/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/React.DotNet.EsBuild",
+      "RelativePath": "js/dist/bg-asteroid.min#[.{fingerprint=hb0d3vhgn0}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/harihoudini/Documents/Github/React.DotNet.EsBuild/wwwroot/js/dist/bg-asteroid.min.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "3k6a4hskgb",
+      "Integrity": "TZjO7K//K1qTJIzgwExBURer+E+u8GL80VmW26i6+zQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/harihoudini/Documents/Github/React.DotNet.EsBuild/wwwroot/js/dist/bg-asteroid.min.js"
     },
     {
       "Identity": "/Users/harihoudini/Documents/Github/React.DotNet.EsBuild/obj/Debug/net9.0/compressed/6g00h7si4g-pj5nd1wqec.gz",
@@ -941,6 +962,27 @@
       "OriginalItemSpec": "/Users/harihoudini/Documents/Github/React.DotNet.EsBuild/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
+      "Identity": "/Users/harihoudini/Documents/Github/React.DotNet.EsBuild/obj/Debug/net9.0/compressed/iuen1tmakv-o7wspy2d02.gz",
+      "SourceId": "React.DotNet.EsBuild",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/harihoudini/Documents/Github/React.DotNet.EsBuild/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/React.DotNet.EsBuild",
+      "RelativePath": "css/dist/bg-asteroid.min#[.{fingerprint=o7wspy2d02}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/harihoudini/Documents/Github/React.DotNet.EsBuild/wwwroot/css/dist/bg-asteroid.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "xvqpsteetp",
+      "Integrity": "oxtQEFLE4jShf9Up0vkKUg0m43GAjJD5D/FYqSfaAR4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/harihoudini/Documents/Github/React.DotNet.EsBuild/wwwroot/css/dist/bg-asteroid.min.css"
+    },
+    {
       "Identity": "/Users/harihoudini/Documents/Github/React.DotNet.EsBuild/obj/Debug/net9.0/compressed/izo7z6u7d6-6pdc2jztkx.gz",
       "SourceId": "React.DotNet.EsBuild",
       "SourceType": "Discovered",
@@ -1403,6 +1445,27 @@
       "OriginalItemSpec": "/Users/harihoudini/Documents/Github/React.DotNet.EsBuild/obj/Debug/net9.0/scopedcss/projectbundle/React.DotNet.EsBuild.bundle.scp.css"
     },
     {
+      "Identity": "/Users/harihoudini/Documents/Github/React.DotNet.EsBuild/wwwroot/css/dist/bg-asteroid.min.css",
+      "SourceId": "React.DotNet.EsBuild",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/harihoudini/Documents/Github/React.DotNet.EsBuild/wwwroot/",
+      "BasePath": "_content/React.DotNet.EsBuild",
+      "RelativePath": "css/dist/bg-asteroid.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o7wspy2d02",
+      "Integrity": "FHPOjdWTJP8EhJk1tWHGHHGY591xz/MkYq+HDda0pNo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/dist/bg-asteroid.min.css"
+    },
+    {
       "Identity": "/Users/harihoudini/Documents/Github/React.DotNet.EsBuild/wwwroot/css/site.css",
       "SourceId": "React.DotNet.EsBuild",
       "SourceType": "Discovered",
@@ -1443,6 +1506,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/Users/harihoudini/Documents/Github/React.DotNet.EsBuild/wwwroot/js/dist/bg-asteroid.min.js",
+      "SourceId": "React.DotNet.EsBuild",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/harihoudini/Documents/Github/React.DotNet.EsBuild/wwwroot/",
+      "BasePath": "_content/React.DotNet.EsBuild",
+      "RelativePath": "js/dist/bg-asteroid.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hb0d3vhgn0",
+      "Integrity": "I+50nEYarknU5SNGie5YaIYhwpblhjst1MdcbiT2Fbg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/dist/bg-asteroid.min.js"
     },
     {
       "Identity": "/Users/harihoudini/Documents/Github/React.DotNet.EsBuild/wwwroot/js/site.js",
@@ -2728,6 +2812,304 @@
   ],
   "Endpoints": [
     {
+      "Route": "css/dist/bg-asteroid.min.css",
+      "AssetFile": "/Users/harihoudini/Documents/Github/React.DotNet.EsBuild/obj/Debug/net9.0/compressed/iuen1tmakv-o7wspy2d02.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000215703192"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4635"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oxtQEFLE4jShf9Up0vkKUg0m43GAjJD5D/FYqSfaAR4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 20:10:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"FHPOjdWTJP8EhJk1tWHGHHGY591xz/MkYq+HDda0pNo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FHPOjdWTJP8EhJk1tWHGHHGY591xz/MkYq+HDda0pNo="
+        }
+      ]
+    },
+    {
+      "Route": "css/dist/bg-asteroid.min.css",
+      "AssetFile": "/Users/harihoudini/Documents/Github/React.DotNet.EsBuild/wwwroot/css/dist/bg-asteroid.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20927"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FHPOjdWTJP8EhJk1tWHGHHGY591xz/MkYq+HDda0pNo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 20:10:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FHPOjdWTJP8EhJk1tWHGHHGY591xz/MkYq+HDda0pNo="
+        }
+      ]
+    },
+    {
+      "Route": "css/dist/bg-asteroid.min.css.gz",
+      "AssetFile": "/Users/harihoudini/Documents/Github/React.DotNet.EsBuild/obj/Debug/net9.0/compressed/iuen1tmakv-o7wspy2d02.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4635"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oxtQEFLE4jShf9Up0vkKUg0m43GAjJD5D/FYqSfaAR4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 20:10:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oxtQEFLE4jShf9Up0vkKUg0m43GAjJD5D/FYqSfaAR4="
+        }
+      ]
+    },
+    {
+      "Route": "css/dist/bg-asteroid.min.o7wspy2d02.css",
+      "AssetFile": "/Users/harihoudini/Documents/Github/React.DotNet.EsBuild/obj/Debug/net9.0/compressed/iuen1tmakv-o7wspy2d02.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000215703192"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4635"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oxtQEFLE4jShf9Up0vkKUg0m43GAjJD5D/FYqSfaAR4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 20:10:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"FHPOjdWTJP8EhJk1tWHGHHGY591xz/MkYq+HDda0pNo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o7wspy2d02"
+        },
+        {
+          "Name": "label",
+          "Value": "css/dist/bg-asteroid.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FHPOjdWTJP8EhJk1tWHGHHGY591xz/MkYq+HDda0pNo="
+        }
+      ]
+    },
+    {
+      "Route": "css/dist/bg-asteroid.min.o7wspy2d02.css",
+      "AssetFile": "/Users/harihoudini/Documents/Github/React.DotNet.EsBuild/wwwroot/css/dist/bg-asteroid.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20927"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FHPOjdWTJP8EhJk1tWHGHHGY591xz/MkYq+HDda0pNo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 20:10:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o7wspy2d02"
+        },
+        {
+          "Name": "label",
+          "Value": "css/dist/bg-asteroid.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FHPOjdWTJP8EhJk1tWHGHHGY591xz/MkYq+HDda0pNo="
+        }
+      ]
+    },
+    {
+      "Route": "css/dist/bg-asteroid.min.o7wspy2d02.css.gz",
+      "AssetFile": "/Users/harihoudini/Documents/Github/React.DotNet.EsBuild/obj/Debug/net9.0/compressed/iuen1tmakv-o7wspy2d02.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4635"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oxtQEFLE4jShf9Up0vkKUg0m43GAjJD5D/FYqSfaAR4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 20:10:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o7wspy2d02"
+        },
+        {
+          "Name": "label",
+          "Value": "css/dist/bg-asteroid.min.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oxtQEFLE4jShf9Up0vkKUg0m43GAjJD5D/FYqSfaAR4="
+        }
+      ]
+    },
+    {
       "Route": "css/site.b9sayid5wm.css",
       "AssetFile": "/Users/harihoudini/Documents/Github/React.DotNet.EsBuild/obj/Debug/net9.0/compressed/9mv4bc8axx-b9sayid5wm.gz",
       "Selectors": [
@@ -3320,6 +3702,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-+/824NtfTA0L7Mr42Fo+86YJP4R5cigdi9S7Fx5VVl4="
+        }
+      ]
+    },
+    {
+      "Route": "js/dist/bg-asteroid.min.hb0d3vhgn0.js",
+      "AssetFile": "/Users/harihoudini/Documents/Github/React.DotNet.EsBuild/obj/Debug/net9.0/compressed/66106dag4u-hb0d3vhgn0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000013425702"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74483"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TZjO7K//K1qTJIzgwExBURer+E+u8GL80VmW26i6+zQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 20:10:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"I+50nEYarknU5SNGie5YaIYhwpblhjst1MdcbiT2Fbg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hb0d3vhgn0"
+        },
+        {
+          "Name": "label",
+          "Value": "js/dist/bg-asteroid.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-I+50nEYarknU5SNGie5YaIYhwpblhjst1MdcbiT2Fbg="
+        }
+      ]
+    },
+    {
+      "Route": "js/dist/bg-asteroid.min.hb0d3vhgn0.js",
+      "AssetFile": "/Users/harihoudini/Documents/Github/React.DotNet.EsBuild/wwwroot/js/dist/bg-asteroid.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "236860"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I+50nEYarknU5SNGie5YaIYhwpblhjst1MdcbiT2Fbg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 20:10:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hb0d3vhgn0"
+        },
+        {
+          "Name": "label",
+          "Value": "js/dist/bg-asteroid.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-I+50nEYarknU5SNGie5YaIYhwpblhjst1MdcbiT2Fbg="
+        }
+      ]
+    },
+    {
+      "Route": "js/dist/bg-asteroid.min.hb0d3vhgn0.js.gz",
+      "AssetFile": "/Users/harihoudini/Documents/Github/React.DotNet.EsBuild/obj/Debug/net9.0/compressed/66106dag4u-hb0d3vhgn0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74483"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TZjO7K//K1qTJIzgwExBURer+E+u8GL80VmW26i6+zQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 20:10:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hb0d3vhgn0"
+        },
+        {
+          "Name": "label",
+          "Value": "js/dist/bg-asteroid.min.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TZjO7K//K1qTJIzgwExBURer+E+u8GL80VmW26i6+zQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/dist/bg-asteroid.min.js",
+      "AssetFile": "/Users/harihoudini/Documents/Github/React.DotNet.EsBuild/obj/Debug/net9.0/compressed/66106dag4u-hb0d3vhgn0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000013425702"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74483"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TZjO7K//K1qTJIzgwExBURer+E+u8GL80VmW26i6+zQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 20:10:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"I+50nEYarknU5SNGie5YaIYhwpblhjst1MdcbiT2Fbg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-I+50nEYarknU5SNGie5YaIYhwpblhjst1MdcbiT2Fbg="
+        }
+      ]
+    },
+    {
+      "Route": "js/dist/bg-asteroid.min.js",
+      "AssetFile": "/Users/harihoudini/Documents/Github/React.DotNet.EsBuild/wwwroot/js/dist/bg-asteroid.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "236860"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I+50nEYarknU5SNGie5YaIYhwpblhjst1MdcbiT2Fbg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 20:10:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-I+50nEYarknU5SNGie5YaIYhwpblhjst1MdcbiT2Fbg="
+        }
+      ]
+    },
+    {
+      "Route": "js/dist/bg-asteroid.min.js.gz",
+      "AssetFile": "/Users/harihoudini/Documents/Github/React.DotNet.EsBuild/obj/Debug/net9.0/compressed/66106dag4u-hb0d3vhgn0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74483"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TZjO7K//K1qTJIzgwExBURer+E+u8GL80VmW26i6+zQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 20:10:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TZjO7K//K1qTJIzgwExBURer+E+u8GL80VmW26i6+zQ="
         }
       ]
     },

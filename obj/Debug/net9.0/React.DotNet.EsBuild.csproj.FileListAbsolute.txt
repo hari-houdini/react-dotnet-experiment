@@ -99,3 +99,6 @@
 /Users/harihoudini/Documents/Github/React.DotNet.EsBuild/bin/Debug/net9.0/package.json
 /Users/harihoudini/Documents/Github/React.DotNet.EsBuild/bin/Debug/net9.0/tsconfig.json
 /Users/harihoudini/Documents/Github/React.DotNet.EsBuild/obj/Debug/net9.0/React.DotNet.EsBuild.sourcelink.json
+/Users/harihoudini/Documents/Github/React.DotNet.EsBuild/bin/Debug/net9.0/component.json
+/Users/harihoudini/Documents/Github/React.DotNet.EsBuild/obj/Debug/net9.0/compressed/iuen1tmakv-o7wspy2d02.gz
+/Users/harihoudini/Documents/Github/React.DotNet.EsBuild/obj/Debug/net9.0/compressed/66106dag4u-hb0d3vhgn0.gz

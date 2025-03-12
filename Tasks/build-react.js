@@ -1,22 +1,46 @@
 import { build } from "esbuild";
-import buildConfigJson from "../esbuild.config.json";
+import buildConfigJson from "../esbuild.config.json" with { type: "json" };
+import stylePlugin from "esbuild-style-plugin";
+import postCssPlugin from '@tailwindcss/postcss';
+import autoprefixer from "autoprefixer";
 
 const buildReactTask = async () => {
-    const configs = buildConfigJson ?? [];
+    const config = buildConfigJson ?? [];
     
     if (!Array.isArray(config) || config.length === 0) {
-        return Promise.resolve("Build config empty");
+        return Promise.resolve("Nothing to build react");
     }
-    
-    for (const config of configs) {
+
+    for (const point of config) {
+        console.info(`Building React component: ${point.out}`);
         await build({
-            entryPoints: config.entry,
-            format: "esm",
+            entryPoints: point.entry,
             bundle: true,
             minify: true,
-            outfile: config.out
-        })
+            outfile: point.out,
+            loader: {
+                '.css': 'css',
+            },
+            // sourcemap: true,
+            platform: 'browser',
+            jsx: 'automatic',
+            tsconfig: './tsconfig.json',
+            plugins: [
+                stylePlugin({
+                    postcss: {
+                        plugins: [
+                            postCssPlugin,
+                            autoprefixer
+                        ]
+                    },
+                })
+            ]
+        }).catch((error) => {
+            console.error(`Build error: ${error}`)
+            process.exit(1)
+        });
     }
+
 }
 
 export default buildReactTask;

@@ -301,6 +301,304 @@
       ]
     },
     {
+      "Route": "css/dist/bg-asteroid.min.css",
+      "AssetFile": "css/dist/bg-asteroid.min.css.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000215703192"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4635"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oxtQEFLE4jShf9Up0vkKUg0m43GAjJD5D/FYqSfaAR4=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"FHPOjdWTJP8EhJk1tWHGHHGY591xz/MkYq+HDda0pNo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 20:10:51 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FHPOjdWTJP8EhJk1tWHGHHGY591xz/MkYq+HDda0pNo="
+        }
+      ]
+    },
+    {
+      "Route": "css/dist/bg-asteroid.min.css",
+      "AssetFile": "css/dist/bg-asteroid.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20927"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FHPOjdWTJP8EhJk1tWHGHHGY591xz/MkYq+HDda0pNo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 20:10:51 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FHPOjdWTJP8EhJk1tWHGHHGY591xz/MkYq+HDda0pNo="
+        }
+      ]
+    },
+    {
+      "Route": "css/dist/bg-asteroid.min.css.gz",
+      "AssetFile": "css/dist/bg-asteroid.min.css.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4635"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oxtQEFLE4jShf9Up0vkKUg0m43GAjJD5D/FYqSfaAR4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 20:10:51 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oxtQEFLE4jShf9Up0vkKUg0m43GAjJD5D/FYqSfaAR4="
+        }
+      ]
+    },
+    {
+      "Route": "css/dist/bg-asteroid.min.o7wspy2d02.css",
+      "AssetFile": "css/dist/bg-asteroid.min.css.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000215703192"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4635"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oxtQEFLE4jShf9Up0vkKUg0m43GAjJD5D/FYqSfaAR4=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"FHPOjdWTJP8EhJk1tWHGHHGY591xz/MkYq+HDda0pNo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 20:10:51 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o7wspy2d02"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FHPOjdWTJP8EhJk1tWHGHHGY591xz/MkYq+HDda0pNo="
+        },
+        {
+          "Name": "label",
+          "Value": "css/dist/bg-asteroid.min.css"
+        }
+      ]
+    },
+    {
+      "Route": "css/dist/bg-asteroid.min.o7wspy2d02.css",
+      "AssetFile": "css/dist/bg-asteroid.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20927"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FHPOjdWTJP8EhJk1tWHGHHGY591xz/MkYq+HDda0pNo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 20:10:51 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o7wspy2d02"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FHPOjdWTJP8EhJk1tWHGHHGY591xz/MkYq+HDda0pNo="
+        },
+        {
+          "Name": "label",
+          "Value": "css/dist/bg-asteroid.min.css"
+        }
+      ]
+    },
+    {
+      "Route": "css/dist/bg-asteroid.min.o7wspy2d02.css.gz",
+      "AssetFile": "css/dist/bg-asteroid.min.css.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4635"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oxtQEFLE4jShf9Up0vkKUg0m43GAjJD5D/FYqSfaAR4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 20:10:51 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o7wspy2d02"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oxtQEFLE4jShf9Up0vkKUg0m43GAjJD5D/FYqSfaAR4="
+        },
+        {
+          "Name": "label",
+          "Value": "css/dist/bg-asteroid.min.css.gz"
+        }
+      ]
+    },
+    {
       "Route": "css/site.b9sayid5wm.css",
       "AssetFile": "css/site.css.gz",
       "Selectors": [
@@ -893,6 +1191,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-+/824NtfTA0L7Mr42Fo+86YJP4R5cigdi9S7Fx5VVl4="
+        }
+      ]
+    },
+    {
+      "Route": "js/dist/bg-asteroid.min.hb0d3vhgn0.js",
+      "AssetFile": "js/dist/bg-asteroid.min.js.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000013425702"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74483"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TZjO7K//K1qTJIzgwExBURer+E+u8GL80VmW26i6+zQ=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"I+50nEYarknU5SNGie5YaIYhwpblhjst1MdcbiT2Fbg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 20:10:51 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hb0d3vhgn0"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-I+50nEYarknU5SNGie5YaIYhwpblhjst1MdcbiT2Fbg="
+        },
+        {
+          "Name": "label",
+          "Value": "js/dist/bg-asteroid.min.js"
+        }
+      ]
+    },
+    {
+      "Route": "js/dist/bg-asteroid.min.hb0d3vhgn0.js",
+      "AssetFile": "js/dist/bg-asteroid.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "236860"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I+50nEYarknU5SNGie5YaIYhwpblhjst1MdcbiT2Fbg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 20:10:51 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hb0d3vhgn0"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-I+50nEYarknU5SNGie5YaIYhwpblhjst1MdcbiT2Fbg="
+        },
+        {
+          "Name": "label",
+          "Value": "js/dist/bg-asteroid.min.js"
+        }
+      ]
+    },
+    {
+      "Route": "js/dist/bg-asteroid.min.hb0d3vhgn0.js.gz",
+      "AssetFile": "js/dist/bg-asteroid.min.js.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74483"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TZjO7K//K1qTJIzgwExBURer+E+u8GL80VmW26i6+zQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 20:10:51 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hb0d3vhgn0"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TZjO7K//K1qTJIzgwExBURer+E+u8GL80VmW26i6+zQ="
+        },
+        {
+          "Name": "label",
+          "Value": "js/dist/bg-asteroid.min.js.gz"
+        }
+      ]
+    },
+    {
+      "Route": "js/dist/bg-asteroid.min.js",
+      "AssetFile": "js/dist/bg-asteroid.min.js.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000013425702"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74483"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TZjO7K//K1qTJIzgwExBURer+E+u8GL80VmW26i6+zQ=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"I+50nEYarknU5SNGie5YaIYhwpblhjst1MdcbiT2Fbg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 20:10:51 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-I+50nEYarknU5SNGie5YaIYhwpblhjst1MdcbiT2Fbg="
+        }
+      ]
+    },
+    {
+      "Route": "js/dist/bg-asteroid.min.js",
+      "AssetFile": "js/dist/bg-asteroid.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "236860"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I+50nEYarknU5SNGie5YaIYhwpblhjst1MdcbiT2Fbg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 20:10:51 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-I+50nEYarknU5SNGie5YaIYhwpblhjst1MdcbiT2Fbg="
+        }
+      ]
+    },
+    {
+      "Route": "js/dist/bg-asteroid.min.js.gz",
+      "AssetFile": "js/dist/bg-asteroid.min.js.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74483"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TZjO7K//K1qTJIzgwExBURer+E+u8GL80VmW26i6+zQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 20:10:51 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TZjO7K//K1qTJIzgwExBURer+E+u8GL80VmW26i6+zQ="
         }
       ]
     },

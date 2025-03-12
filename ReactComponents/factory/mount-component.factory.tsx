@@ -26,7 +26,9 @@ export default function mountComponent<T extends Record<string, any>>(
     const reactRoot = createRoot(el);
     reactRoot.render(
         <StrictMode>
-            <Component {...args} />
+            <div id={`react-app`}>
+                <Component {...args} />
+            </div>
         </StrictMode>
     )
 }

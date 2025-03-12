@@ -5,12 +5,20 @@
       "PackagePath": "staticwebassets/React.DotNet.EsBuild.dtzjp0vhc2.bundle.scp.css"
     },
     {
+      "Id": "/Users/harihoudini/Documents/Github/React.DotNet.EsBuild/wwwroot/css/dist/bg-asteroid.min.css",
+      "PackagePath": "staticwebassets/css/dist/bg-asteroid.min.css"
+    },
+    {
       "Id": "/Users/harihoudini/Documents/Github/React.DotNet.EsBuild/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
       "Id": "/Users/harihoudini/Documents/Github/React.DotNet.EsBuild/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/harihoudini/Documents/Github/React.DotNet.EsBuild/wwwroot/js/dist/bg-asteroid.min.js",
+      "PackagePath": "staticwebassets/js/dist/bg-asteroid.min.js"
     },
     {
       "Id": "/Users/harihoudini/Documents/Github/React.DotNet.EsBuild/wwwroot/js/site.js",
